@@ -255,6 +255,13 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 ---
 
 
+
+<div align="center">
+
+<div align="center">
+
+
+
 ### 🔬 Why This Matters
 
 - **Better Trial Designs:** Insights help researchers create **more accurate and ethical clinical trials**.  
@@ -354,6 +361,10 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 
 
+
+</div>
+
+</div>
 
 
 
