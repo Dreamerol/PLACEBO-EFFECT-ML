@@ -229,6 +229,16 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="center">
+
+
+
+<div align="center">
+
+
+
+
+
 ## 📋 Project Overview
 
 ✨ **Imagine walking into a clinic, receiving a treatment, and feeling better—not because of the medicine itself, but because you believe it will work.**  
@@ -255,10 +265,6 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 ---
 
 
-
-<div align="center">
-
-<div align="center">
 
 
 
