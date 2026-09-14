@@ -229,13 +229,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<div align="center">
-
-
-
-<div align="center">
-
-
 
 
 
@@ -262,8 +255,19 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 💡 **Key Insight:** Studies show that **expectations and beliefs can profoundly influence treatment outcomes**. Patients who trust their treatment often show measurable improvements, even under strictly controlled medical conditions.  
 
 
+
+
+
 ---
 
+
+
+
+<div align="LEFT">
+
+
+
+<div align="LEFT">
 
 
 
