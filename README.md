@@ -229,6 +229,14 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="LEFT">
+
+
+
+<div align="LEFT">
+
+
+
 
 
 
@@ -260,14 +268,6 @@ The **Placebo Effect** project explores exactly that—how patients respond when
 
 ---
 
-
-
-
-<div align="LEFT">
-
-
-
-<div align="LEFT">
 
 
 
